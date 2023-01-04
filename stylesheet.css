@@ -1,0 +1,21 @@
+* {
+    font-size: 15px;
+}
+
+
+#section-one .card {
+    height: 750px;
+}
+
+#section-four .card {
+    height: 750px;
+}
+
+#section-four img {
+    height: 400px;
+}
+
+.btn {
+    padding: 10px;
+    font-weight: bold;
+}
